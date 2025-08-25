@@ -4,7 +4,7 @@
 - 🔭 Currently learning about optimization techniques for deploying multimodal models on mobile devices
 - 🖥️ Meta and AMD shareholder
 - 📚 My work bridges technical implementation with real-world understanding of how humans see, think, and interact in immersive environments
-- 💬 I enjoy learning new languages: 🇰🇷🇺🇸🇯🇵🇨🇳📚
+- 💬 I enjoy learning new languages: 🇰🇷🇺🇸🇯🇵🇨🇳💻
 - [Poorly written blog of mine](https://hyeondg.org)
 
 
@@ -13,7 +13,7 @@
 
 
 #### [OSS](https://en.wikipedia.org/wiki/Open-source_software)
-> [Civ3D](https://github.com/Siv3D/OpenSiv3D) | [tinygrad](https://github.com/hyeondg/tinygrad) | [?]()
+> [ALVR](https://github.com/alvr-org/ALVR) | [Civ3D](https://github.com/Siv3D/OpenSiv3D) | [tinygrad](https://github.com/hyeondg/tinygrad) 
 
 #### Projects 
 > [Memory-safe Transformer on GAP8 microprocessor written in Rust](https://gitlab.com/hyeondg/pulp)
