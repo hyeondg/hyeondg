@@ -22,6 +22,22 @@
 
 > [Skeleton vs Texture: Human Behavioral Experiments on Object Perception in Virtual Reality Environments]() (WIP!)
 
+```mermaid
+graph TD;
+  A[Start] --> B[Identify purpose of design];
+  B --> C[Brainstorm];
+  C --> D[Finalize an idea];
+  D --> E[Develop prototype];
+  E --> F[Successful prototype?];
+  F -- YES --> G[Communicate result];
+  F -- NO --> H[Can the problem be fixed?];
+  H -- YES --> E;
+  H -- NO --> I[Abandon prototype];
+  I --> C;
+  G --> J[Refine design];
+  J --> K[End];
+```
+
 
 
 #### [Full CV (Overleaf)](https://www.overleaf.com/read/dthdchqkzjht#efd09d)
